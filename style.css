@@ -1,0 +1,45 @@
+#button {
+    background-color: blue;
+}
+.copy_right_footer {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     background-color: aqua;
+     text-decoration-color: blue;
+}
+#h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 70;
+}
+#h4 {
+    background-color: red;
+}
+#camera {
+    height: 400px;
+    width: 500px;
+    border-color: blueviolet;
+}
+#result1 {
+    width : 100px;
+    border-radius: 75px;
+    padding: 10px;
+    box-shadow: 0 6px 8 px 0 rgba(2, 2, 2, 0.2);
+}
+#result2 {
+    width : 100px;
+    border-radius: 75px;
+    padding: 10px;
+    box-shadow: 0 6px 8 px 0 rgba(2, 2, 2, 0.2);
+}
+#result3 {
+    width : 100px;
+    border-radius: 75px;
+    padding: 10px;
+    box-shadow: 0 6px 8 px 0 rgba(2, 2, 2, 0.2);
+}
+img:hover {
+    border-radius: 140px;
+}
